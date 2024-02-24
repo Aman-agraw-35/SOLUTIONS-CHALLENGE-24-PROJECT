@@ -1,7 +1,7 @@
-# Jan Sahayta (FoodKitchen) - Community Service Centre project for Solution Challenge GDSC 2024
+# Jan Sahayta (Food Kitchen) - Community Service Centre project for Solution Challenge GDSC 2024
 
 
-- FoodKitchen is a community service center developed as part of the Solution Challenge , aiming to address food insecurity by providing free or low-cost meals to those in need.
+- Food Kitchen is a community service center developed as part of the Solution Challenge , aiming to address food insecurity by providing free or low-cost meals to those in need.
 - Our platform, built with Next.js and React, offers a seamless and user-friendly experience for individuals seeking access to nutritious food options.
 - Whether you're looking for a warm meal or a quick snack, FoodKitchen is here to serve you, ensuring that everyone in our community has access to healthy and affordable food choices.
 - This project is a testament to our commitment to leveraging technology for social good and making a meaningful impact in the fight against hunger.
