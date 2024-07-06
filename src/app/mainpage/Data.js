@@ -107,7 +107,7 @@ const Data = [
     {
         id: 8,
         name: "Food Kitchen - New Market",
-        image: "https://curlytales.com/wp-content/uploads/2020/04/Dubai-based-charities-distribute-over-31570-daily-meals-to-underprivileged-people.png",
+        image: "https://images.thequint.com/thequint%2F2022-01%2Fc73ca1ee-4fdf-4b9c-9d6b-1ac162ef21b5%2FC0139T01.JPG",
         salePrice: "₹9",
         Bread: "Roti",
         Sabzi: "Tinda Sabzi",
