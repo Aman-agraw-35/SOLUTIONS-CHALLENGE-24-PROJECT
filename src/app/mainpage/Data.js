@@ -107,11 +107,7 @@ const Data = [
     {
         id: 8,
         name: "Food Kitchen - New Market",
-<<<<<<< HEAD
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkCT6Ojp9F_s9EOLa6PfQcHIi_T7XRjv3R10NacuPkxU1f5OMLacYZ1uk0d_Vxa89YzFk&usqp=CAU",
-=======
-        image: "https://images.thequint.com/thequint%2F2022-01%2Fc73ca1ee-4fdf-4b9c-9d6b-1ac162ef21b5%2FC0139T01.JPG",
->>>>>>> fd0c1ecf284471c972de17704b1a9f131c2d6053
         salePrice: "₹9",
         Bread: "Roti",
         Sabzi: "Tinda Sabzi",
